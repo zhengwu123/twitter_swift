@@ -1,6 +1,6 @@
 # Project 5 - *twitter_swift*
 
-Time spent: **20** hours spent in total
+Time spent: **21** hours spent in total
 
 ## User Stories
 
